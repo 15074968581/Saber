@@ -20,6 +20,7 @@ module.exports = {
     entry
       .add('@/mock')
       .end()
+    config.devtool = 'source-map'
   },
   devServer: {
     // 端口配置
