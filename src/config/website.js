@@ -40,7 +40,7 @@ export default {
   //auth配置
   auth: {
     // 使用后端工程 @org.springblade.test.Sm2KeyGenerator 获取
-    publicKey: '请配置国密sm2公钥',
+    publicKey: '040a9fd1a962952f412004832256c816aea8b6e7d11169f164965f42ba311d66311756b47eee9ab5e676aeecac296e2d31081594f5e324ff727ede643393613d08',
   },
   // 授权地址
   authUrl: 'http://localhost/blade-auth/oauth/render',
